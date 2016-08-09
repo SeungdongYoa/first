@@ -11,7 +11,7 @@ public class BookService {
 
 	// 데이터베이스 처리를 제외한 순수 로직처리가 나와요!
 	public ArrayList<BookEntity> searchBook(BookEntity entity) {
-		
+		//ll
 		
 		// 로직처리가 없네!!
 		// DB처리를 하기 위해서 DAO를 생성
