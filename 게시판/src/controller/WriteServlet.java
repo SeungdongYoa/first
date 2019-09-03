@@ -79,3 +79,4 @@ public class WriteServlet extends HttpServlet {
 	}
 
 }
+// 수정사항
